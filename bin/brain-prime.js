@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import runGameWithCounter from '../src/index.js';
+import isPrime from '../src/games/brain-prime.js';
 
-runGameWithCounter('brain-prime');
+isPrime();
